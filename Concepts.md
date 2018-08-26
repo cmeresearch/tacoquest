@@ -1,5 +1,9 @@
 # Concept File
 
-This file is just a list of ideas for new recipes.
+A list of ideas for new recipes, or modifications to existing recipes
 
-* Cider chicken
+**New Recipes**
+* Cider lime chicken
+
+**Modifications and Future Directions**
+* Experiment with various dried chiles like ancho or guajillo
