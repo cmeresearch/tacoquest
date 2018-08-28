@@ -17,3 +17,4 @@ _Salsas_
 
 * Experiment with dried chiles like ancho or guajillo
 * Add MSG to vegetarian/vegan recipes to improve richness
+* Pickled red onions
