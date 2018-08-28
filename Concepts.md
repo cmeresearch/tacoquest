@@ -8,6 +8,7 @@ _Meats/Vegetables_
 * Cider lime chicken
 * Grilled portobello
 * Breaded Baja fish (Inspiration from SortedFood's or Rick Bayless's recipes, then develop from there)
+* Moroccan-inspired slow-cooked meat and fruit
 
 _Salsas_
 * Salsa Verde
