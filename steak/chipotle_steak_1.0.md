@@ -1,10 +1,11 @@
 # Chipotle Steak
 
-* 2tsp Chipotle Chili Powder
+* 1tbs Chipotle Chili Powder
 * 1tsp Smoked Paprika
 * 1tsp Salt
 
-* 1/2 Red Chili Pepper, Chopped
+* 1/2 Red Chili Pepper, chopped
+* Small Bunch of Fresh Cilantro, chopped
 * Red Cooking Wine and Water (enough to coat all meat)
 
 * Skirt Steak or other thin steak
