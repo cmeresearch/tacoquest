@@ -10,6 +10,7 @@ _Meats/Vegetables_
 * Breaded Baja fish (Inspiration from SortedFood's or Rick Bayless's recipes, then develop from there)
 * Beer-battered fish (How to make this more interesting? What to add other than beer?)
 * Moroccan-inspired slow-cooked meat and fruit
+* Christmas pork (Allspice, cinnamon, orange juice/zest, sweet/rich smoked chiles, slow-cooked with pork)
 
 _Salsas_
 * Salsa Verde
