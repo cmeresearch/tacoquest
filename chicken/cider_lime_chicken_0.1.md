@@ -9,4 +9,4 @@
 * Cider
 * Lime Juice
 
-Marinate for several hours or overnight. Prep pan with other half of pepper, then cook until chicken is done. Serve with a fresh, bright salsa.
+Marinate for a few minutes. Prep pan with other half of pepper, then cook until chicken is done. Serve with a fresh, bright salsa.
