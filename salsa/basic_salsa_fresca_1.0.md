@@ -13,5 +13,6 @@ Optional:
 * Tomatillos, chopped (about 1-2 for every 4-5 tomatoes)
 * Mango, chopped
 * Green Onion, chopped
+* Chile pepper of your preference, seeded and chopped
 
 Combine and serve.
