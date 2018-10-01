@@ -1,4 +1,4 @@
-# Chipotle Steak
+# Chipotle Chili Powder Steak
 
 * 1tbs Chipotle Chili Powder
 * 1tsp Smoked Paprika
