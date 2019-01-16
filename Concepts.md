@@ -19,6 +19,5 @@ _Salsas_
 
 **Modifications and Future Directions**
 
-* Experiment with dried chiles like ancho or guajillo (Either as a marinade, or as a dy rub)
-* Add MSG to vegetarian/vegan recipes to improve richness
+* ~~Experiment with dried chiles like ancho or guajillo (Either as a marinade, or as a dy rub)~~
 * Pickled red onions
