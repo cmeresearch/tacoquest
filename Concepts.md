@@ -6,7 +6,7 @@ A list of ideas for new recipes, or modifications to existing recipes
 
 _Meats/Vegetables_
 * ~~Cider lime chicken~~
-* Grilled portobello
+* ~~Grilled portobello~~
 * Breaded Baja fish (Inspiration from SortedFood's or Rick Bayless's recipes, then develop from there)
 * Beer-battered fish (How to make this more interesting? What to add other than beer?)
 * Moroccan-inspired slow-cooked meat and fruit
