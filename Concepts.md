@@ -11,10 +11,11 @@ _Meats/Vegetables_
 * Beer-battered fish (How to make this more interesting? What to add other than beer?)
 * Moroccan-inspired slow-cooked meat and fruit
 * Christmas pork (Allspice, cinnamon, orange juice/zest, sweet/rich smoked chiles, slow-cooked with pork)
+* Fried avocado
 
 _Salsas_
 * Salsa Verde
-* Salsa Huevona
+* ~~Salsa Huevona~~
 
 **Modifications and Future Directions**
 
